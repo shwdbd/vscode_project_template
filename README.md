@@ -152,20 +152,23 @@ src和src_test的配置
 
 - Todo Tree
 
+- Better Comments
+
   
 
 下载的离线安装包：
 
 | 插件                            | 离线安装包                                           |
 | ------------------------------- | ---------------------------------------------------- |
-| Python                          |                                                      |
+| Python                          | ms-python.python-2019.11.50794.vsix                  |
 | vscode-icons                    | vscode-icons-team.vscode-icons-9.6.0.vsix            |
 | Python Test Explorer for vscode | LittleFoxTeam.vscode-python-test-adapter-0.3.15.vsix |
 | Test Explorer UI                | hbenl.vscode-test-explorer-2.15.0.vsix               |
-| Slack Theme                     |                                                      |
+| Slack Theme                     | felipe-mendes.slack-theme-1.9.11.vsix                |
 |                                 |                                                      |
-| atuoDocstring                   |                                                      |
-| Markdown All in one             |                                                      |
-| TODO Highlight                  |                                                      |
-| Todo Tree                       |                                                      |
-
+| atuoDocstring                   | njpwerner.autodocstring-0.4.0.vsix                   |
+| Markdown All in one             | yzhang.markdown-all-in-one-2.6.1.vsix                |
+| TODO Highlight                  | wayou.vscode-todo-highlight-1.0.4.vsix               |
+| Todo Tree                       | Gruntfuggly.todo-tree-0.0.162.vsix                   |
+| Better Comments                 | aaron-bond.better-comments-2.0.5.vsix                |
+| Markdownlint                    | DavidAnson.vscode-markdownlint-0.33.0.vsix           |
